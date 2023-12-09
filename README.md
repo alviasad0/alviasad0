@@ -1,6 +1,7 @@
 ### Alvi Asad , a web developer
 
-![The San Juan Mountains are beautiful!](assests/Blue%20&%20White%20Futuristic%20Gaming%20Channel%20Youtube%20Intro%20.png "San Juan Mountains")
+[![The San Juan Mountains are beautiful!](assests/Blue%20&%20White%20Futuristic%20Gaming%20Channel%20Youtube%20Intro%20.png "San Juan Mountains")](https://github.com/alviasad0/alviasad0/assets/79654387/59f5a74a-2a34-41ed-838e-7ee9e4da24b1
+)
 <!--
 **alviasad0/alviasad0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Screenshot (72)](https://github.com/alviasad0/alviasad0/assets/79654387/00246ba7-7ab7-4066-b619-2c14f1d5f711)
