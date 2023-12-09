@@ -1,4 +1,3 @@
-### Alvi Asad , a web developer
 
 ![Blue   White Futuristic Gaming Channel Youtube Intro ](https://github.com/alviasad0/alviasad0/assets/79654387/945aa6c8-fc82-4c9c-ab71-63a74a1fcf0c)
 <!--
