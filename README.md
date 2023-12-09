@@ -55,7 +55,7 @@
 
 ## My Last Best  projects : 
   
-  ### The _Daily_News
+  ### ** The _Daily_News **
   #### News Website (Completed in 5 days)
 
 
@@ -73,8 +73,9 @@
 #### Front-end GitHub : https://github.com/alviasad0/The-DailyNews-client
 #### Backend GitHub : https://github.com/alviasad0/TheDaily_News_server
 
+---
 
-### World_Tour
+### ** World_Tour **
 
 #### Travel Based E-commerce Website (Completed in 4 days)
 
@@ -91,8 +92,9 @@
 ####  Front-end GitHub : https://github.com/alviasad0/WorldTour_client
 ####  Backend GitHub : https://github.com/alviasad0/WorldTour_server
 
+---
 
-### Auto_Car
+### ** Auto_Car **
 
 #### E-commerce Website (Completed in 3 days)
 
@@ -110,12 +112,7 @@
 #### Front-end GitHub : https://github.com/alviasad0/Auto_Car_Client
 #### Backend GitHub :  https://github.com/alviasad0/Auto_Car_Server
 
-
-
-
-
-
-
+---
 
 
 
