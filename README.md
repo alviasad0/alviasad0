@@ -3,7 +3,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alviasad0&theme=blue-green&card_width=1000)](https://git.io/streak-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alviasad0&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alviasad0&theme=react)
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... MERN STACK DEVELOPMENT
