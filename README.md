@@ -53,7 +53,7 @@
 
 
 
-## My Last Best # projects : 
+## My Last Best  projects : 
   
   ### The _Daily_News
   #### News Website (Completed in 5 days)
@@ -62,16 +62,62 @@
    ### Live Link :  https://courageous-duckanoo-35c292.netlify.app/
    
    ####  Key Features
-  * 1. CRUD Operations and Backend CURD Functionality
-  * 2. Scrollbar Enhancement with React Framer Motion
-  * 3. Dynamic Title Changes
+   1. CRUD Operations and Backend CURD Functionality
+   2. Scrollbar Enhancement with React Framer Motion
+   3. Dynamic Title Changes
 #### Key Technologies Utilized
- * 1. MongoDB for Robust Database Management
- * 2. Express for Server-Side Functionality
- * 3. Firebase for Secure and Versatile Authentication
+  1. MongoDB for Robust Database Management
+  2. Express for Server-Side Functionality
+  3. Firebase for Secure and Versatile Authentication
 
 #### Front-end GitHub : https://github.com/alviasad0/The-DailyNews-client
 #### Backend GitHub : https://github.com/alviasad0/TheDaily_News_server
+
+
+### World_Tour
+
+#### Travel Based E-commerce Website (Completed in 4 days)
+
+### Live Link : https://656e69ffeee26c053cbf69e7--gregarious-tanuki8134a3.netlify.app/
+
+#### Key Features
+   1. Interactive Banner with React Simple TypeWriter
+   2. User-Centric Authentication with Firebase
+   3. Secure Backend Configuration with Environment Variables
+#### Key Technologies Utilized
+1. React Framer Motion and React Simple TypeWriter
+2. Express for Server-Side Functionality
+3. Firebase for Secure and Versatile Authentication
+####  Front-end GitHub : https://github.com/alviasad0/WorldTour_client
+####  Backend GitHub : https://github.com/alviasad0/WorldTour_server
+
+
+### Auto_Car
+
+#### E-commerce Website (Completed in 3 days)
+
+
+###  Live Link : https://automotiv-brand-shop.web.app/
+
+#### Key Features
+1. Dynamic Brand-Based E-commerce Platform
+2. User Authentication with Firebase
+3. Seamless Animation Integration with AOS
+#### Key Technologies Utilized
+1. MongoDB
+2. Express
+3. Firebase and Environment Variables
+#### Front-end GitHub : https://github.com/alviasad0/Auto_Car_Client
+#### Backend GitHub :  https://github.com/alviasad0/Auto_Car_Server
+
+
+
+
+
+
+
+
+
 
 ## Let's build the future of technology together! 🤖✨
 
