@@ -2,7 +2,7 @@
 ![Blue   White Futuristic Gaming Channel Youtube Intro ](https://github.com/alviasad0/alviasad0/assets/79654387/945aa6c8-fc82-4c9c-ab71-63a74a1fcf0c)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alviasad0&theme=vue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alviasad0&theme=blue-green&card_width=570)](https://git.io/streak-stats)
 <!--
 **alviasad0/alviasad0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Screenshot (72)](https://github.com/alviasad0/alviasad0/assets/79654387/00246ba7-7ab7-4066-b619-2c14f1d5f711)
