@@ -3,8 +3,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alviasad0&theme=blue-green&card_width=1000)](https://git.io/streak-stats)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/alviasad0/svg/avgupta456/langs)](https://githubtrends.io)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?alviasad0=vn7n24fzkq&theme=default)
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... MERN STACK DEVELOPMENT
