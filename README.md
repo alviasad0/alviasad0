@@ -52,18 +52,28 @@
 
 
 
-<!-- Here are some ideas to get you started:
-I'm Alvi Asad , a passionate MERN stack web developer on a journey to dive deep into the fascinating world of Artificial Intelligence. 🚀
+
+## My Last Best # projects : 
+  
+  ### The _Daily_News
+  #### News Website (Completed in 5 days)
 
 
-- 🔭 I’m currently working on ... MERN STACK DEVELOPMENT
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+   ### Live Link :  https://courageous-duckanoo-35c292.netlify.app/
+   
+   ####  Key Features
+  * 1. CRUD Operations and Backend CURD Functionality
+  * 2. Scrollbar Enhancement with React Framer Motion
+  * 3. Dynamic Title Changes
+#### Key Technologies Utilized
+ * 1. MongoDB for Robust Database Management
+ * 2. Express for Server-Side Functionality
+ * 3. Firebase for Secure and Versatile Authentication
+
+#### Front-end GitHub : https://github.com/alviasad0/The-DailyNews-client
+#### Backend GitHub : https://github.com/alviasad0/TheDaily_News_server
+
+## Let's build the future of technology together! 🤖✨
 
 
 
