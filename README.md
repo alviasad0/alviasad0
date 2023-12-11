@@ -81,7 +81,7 @@
 
 #### Travel Based E-commerce Website (Completed in 4 days)
 
-### Live Link : https://656e69ffeee26c053cbf69e7--gregarious-tanuki8134a3.netlify.app/
+### Live Link : https://reliable-druid-52be5e.netlify.app/
 
 
 #### Description :  World_Tour is a dynamic and feature-rich website designed for travel enthusiasts who seek a seamless and engaging user experience. Leveraging a stack of modern technologies, this project stands out for its commitment to utilizing real-time data, secure authentication, captivating animations, and robust CRUD operations.
