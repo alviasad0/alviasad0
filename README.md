@@ -94,7 +94,7 @@
 1. React Framer Motion and React Simple TypeWriter
 2. Express for Server-Side Functionality
 3. Firebase for Secure and Versatile Authentication
-####  Front-end GitHub : https://github.com/alviasad0/WorldTour_client
+####  Front-end GitHub : https://github.com/alviasad0/World-Tour_client
 ####  Backend GitHub : https://github.com/alviasad0/WorldTour_server
 
 ---
